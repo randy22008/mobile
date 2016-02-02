@@ -1,0 +1,1 @@
+at first,we develop the application program with android and windows phone 7,primary wp7,because there are so little application in the market,so we want to make the applications which on the android could run on the wp7,and I think our team will be stronger as time,thank you
